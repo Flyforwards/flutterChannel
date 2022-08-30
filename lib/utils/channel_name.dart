@@ -1,0 +1,5 @@
+enum ChannelName {
+  batteryLevel,
+  getVersionName
+}
+
